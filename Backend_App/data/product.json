@@ -1,0 +1,561 @@
+[
+  {
+    "name": "Apple iPhone 15",
+    "price": 69999,
+    "discription": "Apple iPhone 15 with 6.1-inch display, powerful performance and 128GB storage.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Apple Store",
+    "stock": 25,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Rahul",
+        "rating": 5,
+        "comment": "Excellent phone with a great camera."
+      },
+      {
+        "name": "Arun",
+        "rating": 4,
+        "comment": "Good performance and battery life."
+      }
+    ]
+  },
+
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 74999,
+    "discription": "Samsung Galaxy S24 with AMOLED display and powerful processor.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Samsung Store",
+    "stock": 18,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Vijay",
+        "rating": 5,
+        "comment": "Amazing smartphone."
+      },
+      {
+        "name": "Kiran",
+        "rating": 4,
+        "comment": "Very good performance."
+      }
+    ]
+  },
+
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 29999,
+    "discription": "Wireless noise cancelling headphones with premium sound quality.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Sony Store",
+    "stock": 30,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Ajay",
+        "rating": 5,
+        "comment": "Best headphones I have used."
+      },
+      {
+        "name": "Ravi",
+        "rating": 4,
+        "comment": "Excellent noise cancellation."
+      }
+    ]
+  },
+
+  {
+    "name": "Dell Inspiron 15 Laptop",
+    "price": 58999,
+    "discription": "Dell laptop suitable for office work, programming and entertainment.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Dell Store",
+    "stock": 15,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Manoj",
+        "rating": 4,
+        "comment": "Good laptop for office work."
+      },
+      {
+        "name": "Suresh",
+        "rating": 4,
+        "comment": "Value for money."
+      }
+    ]
+  },
+
+  {
+    "name": "Apple MacBook Air M3",
+    "price": 109999,
+    "discription": "Apple MacBook Air powered by the M3 chip with excellent battery life.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Apple Store",
+    "stock": 10,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Anil",
+        "rating": 5,
+        "comment": "Very fast and lightweight laptop."
+      },
+      {
+        "name": "Deepak",
+        "rating": 5,
+        "comment": "Excellent laptop for development."
+      }
+    ]
+  },
+
+  {
+    "name": "Nike Air Max Shoes",
+    "price": 8999,
+    "discription": "Comfortable and stylish running shoes for everyday use.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+      }
+    ],
+    "category": "Clothing",
+    "seller": "Nike Store",
+    "stock": 40,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Rohit",
+        "rating": 5,
+        "comment": "Very comfortable shoes."
+      },
+      {
+        "name": "Akash",
+        "rating": 4,
+        "comment": "Good quality and nice design."
+      }
+    ]
+  },
+
+  {
+    "name": "Adidas Running Shoes",
+    "price": 6499,
+    "discription": "Lightweight Adidas running shoes designed for daily workouts.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500"
+      }
+    ],
+    "category": "Clothing",
+    "seller": "Adidas Store",
+    "stock": 35,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Karthik",
+        "rating": 4,
+        "comment": "Comfortable for running."
+      },
+      {
+        "name": "Naveen",
+        "rating": 4,
+        "comment": "Nice shoes for daily use."
+      }
+    ]
+  },
+
+  {
+    "name": "Levi's Denim Jacket",
+    "price": 4999,
+    "discription": "Classic denim jacket suitable for casual occasions.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500"
+      }
+    ],
+    "category": "Clothing",
+    "seller": "Levis Store",
+    "stock": 22,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Arun",
+        "rating": 4,
+        "comment": "Good fitting jacket."
+      },
+      {
+        "name": "Vishnu",
+        "rating": 4,
+        "comment": "Nice material and design."
+      }
+    ]
+  },
+
+  {
+    "name": "Puma Cotton T-Shirt",
+    "price": 1499,
+    "discription": "Comfortable cotton T-shirt for casual everyday wear.",
+    "ratings": 4.0,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
+      }
+    ],
+    "category": "Clothing",
+    "seller": "Puma Store",
+    "stock": 50,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Sanjay",
+        "rating": 4,
+        "comment": "Good quality cotton."
+      },
+      {
+        "name": "Vijay",
+        "rating": 4,
+        "comment": "Comfortable T-shirt."
+      }
+    ]
+  },
+
+  {
+    "name": "Ray-Ban Sunglasses",
+    "price": 12999,
+    "discription": "Stylish sunglasses with UV protection and premium design.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500"
+      }
+    ],
+    "category": "Clothing",
+    "seller": "Ray-Ban Store",
+    "stock": 20,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Ramesh",
+        "rating": 5,
+        "comment": "Excellent sunglasses."
+      },
+      {
+        "name": "Hari",
+        "rating": 4,
+        "comment": "Looks premium."
+      }
+    ]
+  },
+
+  {
+    "name": "Prestige Electric Cooker",
+    "price": 3299,
+    "discription": "Electric cooker with multiple cooking modes and durable design.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=500"
+      }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "Prestige Store",
+    "stock": 28,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Mohan",
+        "rating": 4,
+        "comment": "Very useful cooker."
+      },
+      {
+        "name": "Ravi",
+        "rating": 5,
+        "comment": "Good quality product."
+      }
+    ]
+  },
+
+  {
+    "name": "Philips Air Fryer",
+    "price": 7999,
+    "discription": "Healthy cooking air fryer with adjustable temperature controls.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=500"
+      }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "Philips Store",
+    "stock": 16,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Suresh",
+        "rating": 5,
+        "comment": "Easy to use and clean."
+      },
+      {
+        "name": "Anand",
+        "rating": 4,
+        "comment": "Good air fryer."
+      }
+    ]
+  },
+
+  {
+    "name": "Butterfly Gas Stove",
+    "price": 4599,
+    "discription": "Two burner gas stove with strong stainless steel body.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=500"
+      }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "Butterfly Store",
+    "stock": 20,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Manoj",
+        "rating": 4,
+        "comment": "Good quality stove."
+      },
+      {
+        "name": "Raj",
+        "rating": 4,
+        "comment": "Works perfectly."
+      }
+    ]
+  },
+
+  {
+    "name": "Prestige Non Stick Pan",
+    "price": 1299,
+    "discription": "Non-stick frying pan suitable for everyday cooking.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=500"
+      }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "Prestige Store",
+    "stock": 45,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Priya",
+        "rating": 4,
+        "comment": "Good quality pan."
+      },
+      {
+        "name": "Lakshmi",
+        "rating": 4,
+        "comment": "Easy to clean."
+      }
+    ]
+  },
+
+  {
+    "name": "Milton Stainless Steel Water Bottle",
+    "price": 799,
+    "discription": "Stainless steel water bottle with leak-proof design.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500"
+      }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "Milton Store",
+    "stock": 60,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Kiran",
+        "rating": 5,
+        "comment": "Very good bottle."
+      },
+      {
+        "name": "Ajay",
+        "rating": 4,
+        "comment": "Keeps water cool."
+      }
+    ]
+  },
+
+  {
+    "name": "Clean Code Book",
+    "price": 799,
+    "discription": "A practical guide to writing clean and maintainable software code.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500"
+      }
+    ],
+    "category": "Books",
+    "seller": "Book Store",
+    "stock": 25,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Henry",
+        "rating": 5,
+        "comment": "Excellent book for developers."
+      },
+      {
+        "name": "John",
+        "rating": 5,
+        "comment": "Very useful concepts."
+      }
+    ]
+  },
+
+  {
+    "name": "JavaScript Complete Guide",
+    "price": 999,
+    "discription": "Complete beginner-friendly guide to modern JavaScript programming.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500"
+      }
+    ],
+    "category": "Books",
+    "seller": "Tech Books",
+    "stock": 30,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "David",
+        "rating": 5,
+        "comment": "Great JavaScript book."
+      },
+      {
+        "name": "Peter",
+        "rating": 4,
+        "comment": "Easy to understand."
+      }
+    ]
+  },
+
+  {
+    "name": "React JS Handbook",
+    "price": 899,
+    "discription": "Learn React components, hooks, state management and modern development.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=500"
+      }
+    ],
+    "category": "Books",
+    "seller": "Developer Books",
+    "stock": 18,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Alex",
+        "rating": 5,
+        "comment": "Very useful for React developers."
+      },
+      {
+        "name": "Sam",
+        "rating": 4,
+        "comment": "Good practical examples."
+      }
+    ]
+  },
+
+  {
+    "name": "Node JS Programming",
+    "price": 1099,
+    "discription": "Learn Node.js, Express.js, APIs and backend development.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500"
+      }
+    ],
+    "category": "Books",
+    "seller": "Tech Books",
+    "stock": 20,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Vikram",
+        "rating": 5,
+        "comment": "Great backend development book."
+      },
+      {
+        "name": "Rohan",
+        "rating": 4,
+        "comment": "Good examples."
+      }
+    ]
+  },
+
+  {
+    "name": "MongoDB Developer Guide",
+    "price": 1199,
+    "discription": "Complete guide to MongoDB database development and queries.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=500"
+      }
+    ],
+    "category": "Books",
+    "seller": "Database Books",
+    "stock": 14,
+    "numOfReviews": 2,
+    "reviews": [
+      {
+        "name": "Amit",
+        "rating": 4,
+        "comment": "Helpful MongoDB guide."
+      },
+      {
+        "name": "Nikhil",
+        "rating": 5,
+        "comment": "Excellent examples."
+      }
+    ]
+  }
+]
