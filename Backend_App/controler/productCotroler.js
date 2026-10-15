@@ -1,10 +1,13 @@
 const Product = require("../models/productModules");
 const ErrorHandler = require("../utils/errorHandling");
 const catchAsyncError = require('../middileWares/catchAsyncError');
+const ApiFetuares = require("../utils/apiFetures");
 
 // get all products -- api/v1/products
 exports.getallProducts = async (req, res) => {
-    const products = await Product.find();
+    const apiFeture =  new ApiFetuares(Product.find(), req.query).search()
+    const products = await apiFeture.query;
+    // const products = await Product.find();
     res.status(200).json({
         success: true,
         message: "All products fetched successfully",
