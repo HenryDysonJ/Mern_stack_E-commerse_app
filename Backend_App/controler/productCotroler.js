@@ -5,7 +5,8 @@ const ApiFetuares = require("../utils/apiFetures");
 
 // get all products -- api/v1/products
 exports.getallProducts = async (req, res) => {
-    const apiFeture =  new ApiFetuares(Product.find(), req.query).search()
+    const resPerPage = 2;
+    const apiFeture =  new ApiFetuares(Product.find(), req.query).search().filter().paginate(resPerPage)
     const products = await apiFeture.query;
     // const products = await Product.find();
     res.status(200).json({
